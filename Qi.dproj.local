@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.680,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_LineSettings.pas=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.dfm=C:\Users\cschi\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.680,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_LineSettings.dfm=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.113,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_Main.pas=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.712,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Qi.dproj=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_Connect.pas=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.657,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Project1.dproj=C:\Users\cschi\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.113,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_Main.dfm=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_AssamblyLine.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.080,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Arm.pas=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Environment.pas=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_AssamblySettings.dfm=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,=C:\Users\cschi\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=C:\Users\cschi\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_Connect.dfm=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_ArmSettings.pas=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Motor.pas=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_ArmSettings.dfm=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas=C:\Users\cschi\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\U_Form_AssamblySettings.pas=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.389,=C:\Users\cschi\OneDrive - FH Muenster\Projekt\Ver1\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
